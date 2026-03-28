@@ -13,8 +13,3 @@
   "streamAsyncJS": true,
   "softsub": false
 }
-```
-
-Then the URL you paste into Luna is:
-```
-https://raw.githubusercontent.com/shadowbantest/luna-test/refs/heads/main/cineby.json
