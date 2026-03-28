@@ -1,0 +1,15 @@
+{
+  "sourceName": "Cineby",
+  "iconUrl": "https://www.cineby.sc/favicon.ico",
+  "author": { "name": "Luna Auto-Gen", "icon": "" },
+  "version": "1.0.0",
+  "language": "English",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://www.cineby.sc",
+  "searchBaseUrl": "https://api.themoviedb.org/3",
+  "scriptUrl": "PASTE_YOUR_RAW_GITHUB_URL_HERE",
+  "asyncJS": true,
+  "streamAsyncJS": true,
+  "softsub": false
+}
