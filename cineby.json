@@ -8,8 +8,13 @@
   "quality": "1080p",
   "baseUrl": "https://www.cineby.sc",
   "searchBaseUrl": "https://api.themoviedb.org/3",
-  "scriptUrl": "PASTE_YOUR_RAW_GITHUB_URL_HERE",
+  "scriptUrl": "https://raw.githubusercontent.com/shadowbantest/luna-test/refs/heads/main/cineby_1.js",
   "asyncJS": true,
   "streamAsyncJS": true,
   "softsub": false
 }
+```
+
+Then the URL you paste into Luna is:
+```
+https://raw.githubusercontent.com/shadowbantest/luna-test/refs/heads/main/cineby.json
